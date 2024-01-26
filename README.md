@@ -4,7 +4,7 @@
 
 Conhecendo o mundo da programação e me apaixonando cada vez mais.
 
-- 🎓 Estudante de Informática pelo SENAC - Ribeirão Preto
+- 🎓 Estudante de Ciência da Computação - Ribeirão Preto
 - 👩‍💻 Aprendendo sobre Front-End e Back-End 
 - 💜 Movida a desafios!
 
