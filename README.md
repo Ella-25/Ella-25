@@ -4,8 +4,8 @@
 
 Conhecendo o mundo da programação e me apaixonando cada vez mais.
 
-- 🎓 Estudante de Ciência da Computação - Ribeirão Preto
-- 👩‍💻 Aprendendo sobre Front-End e Back-End 
+- 🎓 Técnica em Informática e Estudante de Ciência da Computação - Ribeirão Preto
+- 👩‍💻 1º Semestre
 - 💜 Movida a desafios!
 
 <div>
