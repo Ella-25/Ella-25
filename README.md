@@ -4,7 +4,7 @@
 
 Conhecendo o mundo da programação e me apaixonando cada vez mais.
 
-- 🎓 Técnica em Informática e Estudante de Ciência da Computação - Ribeirão Preto
+- 🎓 Técnica em Informática e estudante de Ciência da Computação - Ribeirão Preto
 - 👩‍💻 1º Semestre
 - 💜 Movida a desafios!
 
