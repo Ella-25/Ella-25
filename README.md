@@ -2,11 +2,8 @@
 
 # 🤍 Bem-vindos ao meu GitHub!!
 
-Conhecendo o mundo da programação e me apaixonando cada vez mais.
-
-- 🎓 Técnica em Informática e estudante de Ciência da Computação - Ribeirão Preto
-- 👩‍💻 1º Semestre
-- 💜 Movida a desafios!
+- 🎓 Técnica em Informática e estudante de Ciência da Computação
+- 👩‍💻 3º Semestre
 
 <div>
   <a href = "https://www.linkedin.com/in/mirella-morigene-de-souza-083407264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
