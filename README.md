@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif" width = "285px" align = "right">
 
-# 🤍 Bem-vindos ao meu GitHub!!
+# 🤍 Bem-vindos ao meu GitHub!
 
 - 🎓 Técnica em Informática e estudante de Ciência da Computação
 - 👩‍💻 3º Semestre
