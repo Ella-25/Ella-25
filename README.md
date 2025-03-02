@@ -4,6 +4,7 @@
 
 - 🎓 Técnica em Informática e estudante de Ciência da Computação
 - 👩‍💻 3º Semestre
+- 🌐 Em busca de novos conhecimentos.
 
 <div>
   <a href = "https://www.linkedin.com/in/mirella-morigene-de-souza-083407264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
