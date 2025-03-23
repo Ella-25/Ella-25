@@ -17,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="VisualStudio" height="40" style="vertical-align:top; margin:4px">
