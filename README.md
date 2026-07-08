@@ -3,7 +3,7 @@
 # 🤍 Bem-vindos ao meu GitHub!
 
 - 🎓 Técnica em Informática e estudante de Ciência da Computação
-- 👩‍💻 4º Semestre
+- 👩‍💻 6º Semestre
 - 🌐 Em busca de novos conhecimentos.
 
 <div>
